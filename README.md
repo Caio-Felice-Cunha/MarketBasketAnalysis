@@ -25,7 +25,7 @@ For that, I used RStudio.
 We want to prove that there is a certain purchase pattern, where consumers, after purchasing product A, will probably buy product B or product C next
 
 ## Business Results
-Para esse negócio, vimos que produtos como "Dust-Off Compressed Gas 2 pack", "HP 61 ink" e "VIVO Dual LCD Monitor Desk mount" são os produtos mais procurados após as primeiras compras, sendo assim, é importante garantir que sempre tenham esses produtos em estoque, assim como, deixá-los como recomendação ao cliente.
+For this business, we have seen that products such as "Dust-Off Compressed Gas 2 pack", "HP 61 ink" and "VIVO Dual LCD Monitor Desk mount" are the most sought after products after the first purchases, therefore, it is important to ensure that you always have these products in stock, as well as leave them as a recommendation to the customer.
 
 ## Conclusions
 Although human beings are not completely predictable, there is a certain standardization in how we behave and this reflects in our way of consuming, therefore, understanding how buying patterns work will give a market advantage to those who apply Market Basket Analysis.
