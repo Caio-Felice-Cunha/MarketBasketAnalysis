@@ -1,6 +1,8 @@
 # Retail with Market Basket Analysis
 How to better sell your products and services<br>
+[The Executive report](https://github.com/Caio-Felice-Cunha/MarketBasketAnalysis/blob/main/Executive%20Report%20-%20Market%20Basket%20Analysis.pdf) <br>
 [The report](https://github.com/Caio-Felice-Cunha/MarketBasketAnalysis/blob/main/Market-Basket-Analysis-Report.pdf)
+
 
 ![imagem](https://user-images.githubusercontent.com/111542025/226082263-2a7f3a81-22ae-4ec2-86f9-940b1dd6639a.jpeg)
 
