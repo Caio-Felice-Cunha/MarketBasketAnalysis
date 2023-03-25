@@ -34,4 +34,4 @@ Although human beings are not completely predictable, there is a certain standar
 
 ## Next Steps
 * Improve the parameters to more accurately predict the products that will be consumed after the first purchases.
-
+* Understand the correlation between variables
