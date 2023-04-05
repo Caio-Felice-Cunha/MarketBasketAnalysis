@@ -35,3 +35,6 @@ Although human beings are not completely predictable, there is a certain standar
 ## Next Steps
 * Improve the parameters to more accurately predict the products that will be consumed after the first purchases.
 * Understand the correlation between variables
+
+## Disclaimer 
+A good part of this project was largely done in the Data Science Academy, Big Data Analytics with R and Microsoft Azure Machine Learning course (part of the Data Scientist training)
