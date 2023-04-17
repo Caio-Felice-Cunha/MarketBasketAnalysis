@@ -17,11 +17,18 @@ One way to solve this problem is Market Basket Analysis. Market basket analysis 
 
 ## Business Assumptions
 It was assumed that the business wants to sell more products or services and obtains the purchase history of its customers.
+What are the main products that customers want to buy?<br>
+Once he has consumed in the store, what are the next products he is likely to buy?
 
 ## Solution Strategy
-What are the main products that customers want to buy?<br>
-Once he has consumed in the store, what are the next products he is likely to buy? <br>
 For that, I used RStudio.
+* Step 01: Conection with MySQL;
+* Step 02: Importing and Cleaning properly the dataset;
+* Step 03: Check missing values;
+* Step 04: Converting the variables to factor type;
+* Step 05: Inspection of the rules;
+* Step 06: Filtering the top 03 rules.
+
 
 ## Data Insights
 We want to prove that there is a certain purchase pattern, where consumers, after purchasing product A, will probably buy product B or product C next
